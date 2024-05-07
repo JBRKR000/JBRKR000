@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">A passionate backend developer from Poland</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jbrkr000&label=Profile%20views&color=0e75b6&style=flat" alt="jbrkr000" /> </p>
+<p align="left">  &nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=jbrkr000&label=Profile%20views&color=ff0000&style=flat" alt="jbrkr000" /> </p>
 
 - 🔭 **Currently working on my first game:** [SpaceWar2D](https://github.com/JBRKR000/SpaceWar2D)
 
@@ -33,8 +33,13 @@
 <br></br>
 </div>
     
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jbrkr000&show_icons=true&locale=en&layout=compact" alt="jbrkr000" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jbrkr000&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff" alt="jbrkr000" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=jbrkr000&show_icons=true&locale=en&bg_color=000000&text_color=ffffff" alt="jbrkr000" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jbrkr000&show_icons=true&locale=en" alt="jbrkr000" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jbrkr000&" alt="jbrkr000" /></p>
+
+
+
+
+
+
