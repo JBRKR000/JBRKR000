@@ -10,8 +10,6 @@
 - 📫 How to reach me **kozimorjakub@gmail.com**
 
 - ⚡ Fun fact **I love playing games**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
