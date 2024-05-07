@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm JBRKR000</h1>
+<h1 align="center">
+  <img src="https://github.com/JBRKR000/JBRKR000/assets/119077506/330a2065-db1c-4c17-aff7-2bcf53bd15cb" alt="text"/>
+</h1>
 <h3 align="center">A passionate backend developer from Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jbrkr000&label=Profile%20views&color=0e75b6&style=flat" alt="jbrkr000" /> </p>
