@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jbrkr000&label=Profile%20views&color=0e75b6&style=flat" alt="jbrkr000" /> </p>
 
-- 🔭 I’m currently working on [SpaceWar2D](https://github.com/JBRKR000/SpaceWar2D)
+- 🔭 I’m currently working on: [SpaceWar2D](https://github.com/JBRKR000/SpaceWar2D)
 
-- 🌱 I’m currently learning **Java, React Native, C#**
+- 🌱 I’m currently learning: **Java, React Native, C#**
 
-- 📫 How to reach me **kozimorjakub@gmail.com**
+- 📫 How to reach me: **kozimorjakub@gmail.com**
 
-- ⚡ Fun fact **I love playing games**
+- ⚡ Fun fact: **I love playing games**
 <p align="left">
 </p>
 
