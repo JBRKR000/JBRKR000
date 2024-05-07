@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/JBRKR000/JBRKR000/assets/119077506/330a2065-db1c-4c17-aff7-2bcf53bd15cb" alt="text"/>
+  <img src="https://github.com/JBRKR000/JBRKR000/assets/119077506/946028c6-65f1-4ad7-9c86-a11eec7f1bdd" alt="text"/>
 </h1>
 <h3 align="center">A passionate backend developer from Poland</h3>
 
