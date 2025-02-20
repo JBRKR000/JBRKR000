@@ -9,9 +9,9 @@
 
 
 
-- 🔭 **Currently working on my first game:** [SpaceWar2D](https://github.com/JBRKR000/SpaceWar2D)
+- 🔭 **Currently working on LeetCode algorithms:** [LeetCode](https://github.com/JBRKR000/LeetCode-Resolved)
 
-- 🌱 **Currently learning:** Java, C#, React Native and Bootstrap
+- 🌱 **Currently learning:** Java, Spring Framework and C#
 
 - 📫 **How to reach me:** kozimorjakub@gmail.com
 
@@ -21,14 +21,11 @@
 
 [![icons8-youtube-50](https://github.com/JBRKR000/JBRKR000/assets/119077506/418a6e5f-0974-4af4-96ad-517231585419)](https://www.youtube.com/@JBRKR) 
 
-<h3 align="left">My website (currently in progress):</h3>
-
-- 📡 **[https://jbrkr000.github.io](https://jbrkr000.github.io)**
-
 
 <h3 align="left">My finished projects:</h3> 
 
 - 🛠️ **[EmotionPredictionModel](https://github.com/JBRKR000/EmotionPredictionModel)** - This project is a university assignment aimed at predicting emotions from text data using machine learning techniques.
+- **[SM_Project](https://github.com/mikoo17/SM_Project)** **[PRIVATE]** - A streamlined solution for managing housing cooperatives, simplifying administration, financial tracking, issue reporting, and communication with residents.
 
 <p align="left">
 </p>
