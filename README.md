@@ -11,7 +11,7 @@
 </p>
 
 <ul>
-    <li>🔭 <strong>Currently working on LeetCode algorithms:</strong> <a href="https://github.com/JBRKR000/LeetCode-Resolved" target="_blank">LeetCode</a></li>
+    <li>🔭 <strong>Currently working on my game engine :</strong> <a href="https://github.com/JBRKR000/NpEx-Engine" target="_blank">NpEx Engine</a></li>
     <li>🌱 <strong>Currently learning:</strong> .NET, C#, Java, Spring Framework</li>
     <li>📫 <strong>How to reach me:</strong> kozimorjakub@gmail.com</li>
     <li>⚡ <strong>Fun fact:</strong> I love playing games 🤪</li>
