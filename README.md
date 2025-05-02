@@ -26,6 +26,7 @@
 
 <h3 align="left" style="font-weight: bold;">My Projects:</h3>
 <ul>
+    <li>⚙️ <a href="https://github.com/JBRKR000/NpEx-Engine" target="_blank"><strong>NpEx Engine</strong></a> - Lightweight 3D engine written in Java and built on the LWJGL</li>
     <li>🛠️ <a href="https://github.com/JBRKR000/EmotionPredictionModel" target="_blank"><strong>EmotionPredictionModel</strong></a> - This project is a university assignment aimed at predicting emotions from text data using machine learning techniques.</li>
     <li>📂 <a href="https://github.com/mikoo17/SM_Project" target="_blank"><strong>SM_Project</strong> (PRIVATE)</a> - A streamlined solution for managing housing cooperatives, simplifying administration, financial tracking, issue reporting, and communication with residents.</li>
     <li>🚀 <a href="https://github.com/JBRKR000/SpaceWar2D" target="_blank"><strong>SpaceWar2D</strong></a> - A 2D space-themed game built with Java and FXGL </li>
