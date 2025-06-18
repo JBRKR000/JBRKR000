@@ -34,7 +34,7 @@
   
 </ul>
 
-<h3 align="left" style="font-weight: bold;">Languages and Tools that I Use:</h3>
+<h3 align="left" style="font-weight: bold;">My Techstack</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Logo Java" width="50" height="50">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" alt="Logo Jira" width="50" height="50">
